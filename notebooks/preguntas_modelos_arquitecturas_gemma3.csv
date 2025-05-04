@@ -1,0 +1,201 @@
+identificacion_paciente,pregunta,modelo,arquitectura
+11111,Hola,gemma3:12b,contextual_rag
+11111,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+11111,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,contextual_rag
+11111,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+11111,¿Tiene mediciones de creatinina? ,gemma3:12b,contextual_rag
+11111,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,contextual_rag
+11111,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,contextual_rag
+11111,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,contextual_rag
+11111,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,contextual_rag
+11111,¿El paciente hace ejercicio regularmente? ,gemma3:12b,contextual_rag
+22222,Hola,gemma3:12b,contextual_rag
+22222,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+22222,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,contextual_rag
+22222,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+22222,¿Tiene mediciones de creatinina? ,gemma3:12b,contextual_rag
+22222,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,contextual_rag
+22222,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,contextual_rag
+22222,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,contextual_rag
+22222,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,contextual_rag
+22222,¿El paciente hace ejercicio regularmente? ,gemma3:12b,contextual_rag
+33333,Hola,gemma3:12b,contextual_rag
+33333,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+33333,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,contextual_rag
+33333,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+33333,¿Tiene mediciones de creatinina? ,gemma3:12b,contextual_rag
+33333,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,contextual_rag
+33333,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,contextual_rag
+33333,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,contextual_rag
+33333,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,contextual_rag
+33333,¿El paciente hace ejercicio regularmente? ,gemma3:12b,contextual_rag
+55555,Hola,gemma3:12b,contextual_rag
+55555,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+55555,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,contextual_rag
+55555,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+55555,¿Tiene mediciones de creatinina? ,gemma3:12b,contextual_rag
+55555,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,contextual_rag
+55555,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,contextual_rag
+55555,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,contextual_rag
+55555,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,contextual_rag
+55555,¿El paciente hace ejercicio regularmente? ,gemma3:12b,contextual_rag
+66666,Hola,gemma3:12b,contextual_rag
+66666,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+66666,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,contextual_rag
+66666,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+66666,¿Tiene mediciones de creatinina? ,gemma3:12b,contextual_rag
+66666,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,contextual_rag
+66666,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,contextual_rag
+66666,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,contextual_rag
+66666,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,contextual_rag
+66666,¿El paciente hace ejercicio regularmente? ,gemma3:12b,contextual_rag
+44444,Hola,gemma3:12b,contextual_rag
+44444,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+44444,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,contextual_rag
+44444,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+44444,¿Tiene mediciones de creatinina? ,gemma3:12b,contextual_rag
+44444,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,contextual_rag
+44444,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,contextual_rag
+44444,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,contextual_rag
+44444,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,contextual_rag
+44444,¿El paciente hace ejercicio regularmente? ,gemma3:12b,contextual_rag
+77777,Hola,gemma3:12b,contextual_rag
+77777,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+77777,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,contextual_rag
+77777,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+77777,¿Tiene mediciones de creatinina? ,gemma3:12b,contextual_rag
+77777,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,contextual_rag
+77777,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,contextual_rag
+77777,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,contextual_rag
+77777,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,contextual_rag
+77777,¿El paciente hace ejercicio regularmente? ,gemma3:12b,contextual_rag
+88888,Hola,gemma3:12b,contextual_rag
+88888,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+88888,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,contextual_rag
+88888,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+88888,¿Tiene mediciones de creatinina? ,gemma3:12b,contextual_rag
+88888,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,contextual_rag
+88888,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,contextual_rag
+88888,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,contextual_rag
+88888,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,contextual_rag
+88888,¿El paciente hace ejercicio regularmente? ,gemma3:12b,contextual_rag
+99999,Hola,gemma3:12b,contextual_rag
+99999,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+99999,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,contextual_rag
+99999,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+99999,¿Tiene mediciones de creatinina? ,gemma3:12b,contextual_rag
+99999,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,contextual_rag
+99999,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,contextual_rag
+99999,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,contextual_rag
+99999,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,contextual_rag
+99999,¿El paciente hace ejercicio regularmente? ,gemma3:12b,contextual_rag
+11110,Hola,gemma3:12b,contextual_rag
+11110,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+11110,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,contextual_rag
+11110,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,contextual_rag
+11110,¿Tiene mediciones de creatinina? ,gemma3:12b,contextual_rag
+11110,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,contextual_rag
+11110,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,contextual_rag
+11110,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,contextual_rag
+11110,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,contextual_rag
+11110,¿El paciente hace ejercicio regularmente? ,gemma3:12b,contextual_rag
+11111,Hola,gemma3:12b,simple_rag
+11111,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+11111,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,simple_rag
+11111,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+11111,¿Tiene mediciones de creatinina? ,gemma3:12b,simple_rag
+11111,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,simple_rag
+11111,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,simple_rag
+11111,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,simple_rag
+11111,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,simple_rag
+11111,¿El paciente hace ejercicio regularmente? ,gemma3:12b,simple_rag
+22222,Hola,gemma3:12b,simple_rag
+22222,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+22222,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,simple_rag
+22222,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+22222,¿Tiene mediciones de creatinina? ,gemma3:12b,simple_rag
+22222,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,simple_rag
+22222,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,simple_rag
+22222,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,simple_rag
+22222,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,simple_rag
+22222,¿El paciente hace ejercicio regularmente? ,gemma3:12b,simple_rag
+33333,Hola,gemma3:12b,simple_rag
+33333,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+33333,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,simple_rag
+33333,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+33333,¿Tiene mediciones de creatinina? ,gemma3:12b,simple_rag
+33333,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,simple_rag
+33333,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,simple_rag
+33333,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,simple_rag
+33333,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,simple_rag
+33333,¿El paciente hace ejercicio regularmente? ,gemma3:12b,simple_rag
+55555,Hola,gemma3:12b,simple_rag
+55555,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+55555,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,simple_rag
+55555,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+55555,¿Tiene mediciones de creatinina? ,gemma3:12b,simple_rag
+55555,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,simple_rag
+55555,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,simple_rag
+55555,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,simple_rag
+55555,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,simple_rag
+55555,¿El paciente hace ejercicio regularmente? ,gemma3:12b,simple_rag
+66666,Hola,gemma3:12b,simple_rag
+66666,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+66666,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,simple_rag
+66666,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+66666,¿Tiene mediciones de creatinina? ,gemma3:12b,simple_rag
+66666,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,simple_rag
+66666,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,simple_rag
+66666,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,simple_rag
+66666,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,simple_rag
+66666,¿El paciente hace ejercicio regularmente? ,gemma3:12b,simple_rag
+44444,Hola,gemma3:12b,simple_rag
+44444,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+44444,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,simple_rag
+44444,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+44444,¿Tiene mediciones de creatinina? ,gemma3:12b,simple_rag
+44444,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,simple_rag
+44444,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,simple_rag
+44444,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,simple_rag
+44444,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,simple_rag
+44444,¿El paciente hace ejercicio regularmente? ,gemma3:12b,simple_rag
+77777,Hola,gemma3:12b,simple_rag
+77777,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+77777,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,simple_rag
+77777,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+77777,¿Tiene mediciones de creatinina? ,gemma3:12b,simple_rag
+77777,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,simple_rag
+77777,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,simple_rag
+77777,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,simple_rag
+77777,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,simple_rag
+77777,¿El paciente hace ejercicio regularmente? ,gemma3:12b,simple_rag
+88888,Hola,gemma3:12b,simple_rag
+88888,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+88888,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,simple_rag
+88888,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+88888,¿Tiene mediciones de creatinina? ,gemma3:12b,simple_rag
+88888,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,simple_rag
+88888,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,simple_rag
+88888,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,simple_rag
+88888,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,simple_rag
+88888,¿El paciente hace ejercicio regularmente? ,gemma3:12b,simple_rag
+99999,Hola,gemma3:12b,simple_rag
+99999,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+99999,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,simple_rag
+99999,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+99999,¿Tiene mediciones de creatinina? ,gemma3:12b,simple_rag
+99999,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,simple_rag
+99999,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,simple_rag
+99999,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,simple_rag
+99999,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,simple_rag
+99999,¿El paciente hace ejercicio regularmente? ,gemma3:12b,simple_rag
+11110,Hola,gemma3:12b,simple_rag
+11110,¿Cuál es la fecha de la última atención? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+11110,¿El paciente está diagnosticado con Enfermedad renal crónica? ,gemma3:12b,simple_rag
+11110,¿Cuál es la fecha de diagnóstico de Enfermedad renal crónica? Responde en formato dd/mm/aaaa,gemma3:12b,simple_rag
+11110,¿Tiene mediciones de creatinina? ,gemma3:12b,simple_rag
+11110,"En la última atención, en qué fecha fue realizada la última creatinina? Responde en formato dd/mm/aaaa",gemma3:12b,simple_rag
+11110,"En la última atención, cuál es el valor de la última creatinina?",gemma3:12b,simple_rag
+11110,"En la primera atención, cuál es el valor de la primera creatinina?",gemma3:12b,simple_rag
+11110,¿El paciente tiene antecedentes de enfermedad cardiovascular? ,gemma3:12b,simple_rag
+11110,¿El paciente hace ejercicio regularmente? ,gemma3:12b,simple_rag
